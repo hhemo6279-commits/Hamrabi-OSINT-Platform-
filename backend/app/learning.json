@@ -1,0 +1,298 @@
+{
+  "runs": [
+    {
+      "ts": "2026-08-08T20:08:06.625655+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:08:30.839285+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:09:21.821349+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:09:21.875998+00:00",
+      "raw_input": "evilalert(1) example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-08T20:09:21.992842+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:10:00.859633+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:10:05.340285+00:00",
+      "raw_input": "example.com, mail@example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-08T20:11:58.764714+00:00",
+      "raw_input": "example.com, mail@example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-08T20:12:19.185096+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:12:19.208609+00:00",
+      "raw_input": "evilalert(1) example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-08T20:12:19.309118+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:15:16.859925+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:16:14.511445+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:16:14.566605+00:00",
+      "raw_input": "evilalert(1) example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-08T20:16:14.689359+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:19:05.993923+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:19:22.325932+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:19:30.605982+00:00",
+      "raw_input": "example.com, mail@example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-08T20:27:45.473411+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:27:45.507173+00:00",
+      "raw_input": "evilalert(1) example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-08T20:27:45.604797+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:27:53.327192+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:27:53.363626+00:00",
+      "raw_input": "evilalert(1) example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-08T20:27:53.456072+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:28:28.850110+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:31:42.013682+00:00",
+      "raw_input": "https://www.tiktok.com/@user1907109281181/video/7669768455603719444?_r=1&u_code=e4lf4m1flkif46&preview_pb=0&sharer_language=ar&_d=ef7kli8bc59d7h&share_item_id=7669768455603719444&source=h5_m&timestamp=1786218644&user_id=7164806900641694726&sec_user_id=MS4wLjABAAAARMWBEPQQkAtrsl1y6y99aBgCIUAK9w6mhUuKuh7jJJnnHK-lxo7IynORXCdN50iD&social_share_type=0&utm_source=more&utm_campaign=client_share&utm_medium=android&share_iid=7668921724402960148&share_link_id=00a6879e-d8d5-471f-8479-74397d27b7dc&share_app_id=1233&ugbiz_name=MAIN&ug_btm=b2001&sp_root_share_link_id=00a6879e-d8d5-471f-8479-74397d27b7dc&link_reflow_popup_iteration_sharer=%7B%22click_empty_to_play%22%3A1%2C%22dynamic_cover%22%3A1%2C%22follow_to_play_duration%22%3A-1.0%2C%22profile_clickable%22%3A1%7D&panel_source_v2=share_panel&share_enter_from=homepage_hot&item_author_type=2&enable_checksum=1&sp_level=1&sp_root_u=e4lf4m1flkif46&sp_root_d=ef7kli8bc59d7h",
+      "input_type": "url"
+    },
+    {
+      "ts": "2026-08-08T20:35:13.524828+00:00",
+      "raw_input": "https://www.facebook.com/share/p/18arqQSqcD/",
+      "input_type": "url"
+    },
+    {
+      "ts": "2026-08-08T20:36:42.426018+00:00",
+      "raw_input": "https://www.facebook.com/share/p/18arqQSqcD/",
+      "input_type": "url"
+    },
+    {
+      "ts": "2026-08-08T20:41:35.272283+00:00",
+      "raw_input": "https://www.iana.org/help/example-domains",
+      "input_type": "url"
+    },
+    {
+      "ts": "2026-08-08T20:43:21.313235+00:00",
+      "raw_input": "https://httpbin.org/html",
+      "input_type": "url"
+    },
+    {
+      "ts": "2026-08-08T20:45:19.788936+00:00",
+      "raw_input": "https://httpbin.org/html",
+      "input_type": "url"
+    },
+    {
+      "ts": "2026-08-08T20:46:30.294351+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:46:30.355955+00:00",
+      "raw_input": "evilalert(1) example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-08T20:46:30.431162+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:47:46.181920+00:00",
+      "raw_input": "https://www.iana.org/help/example-domains",
+      "input_type": "url"
+    },
+    {
+      "ts": "2026-08-08T20:49:47.188286+00:00",
+      "raw_input": "https://www.npr.org",
+      "input_type": "url"
+    },
+    {
+      "ts": "2026-08-08T20:50:33.879274+00:00",
+      "raw_input": "https://www.npr.org",
+      "input_type": "url"
+    },
+    {
+      "ts": "2026-08-08T20:50:42.670604+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-08T20:50:42.715134+00:00",
+      "raw_input": "evilalert(1) example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-08T20:50:42.804196+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-09T10:27:30.287668+00:00",
+      "raw_input": "@githubuser",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-09T13:17:56.420298+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-09T13:17:56.462048+00:00",
+      "raw_input": "evilalert(1) example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-09T13:17:56.559169+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-09T13:21:57.070756+00:00",
+      "raw_input": "torvalds",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-09T13:28:25.407707+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-09T13:28:25.437713+00:00",
+      "raw_input": "evilalert(1) example.com",
+      "input_type": "text"
+    },
+    {
+      "ts": "2026-08-09T13:28:25.550883+00:00",
+      "raw_input": "example.com",
+      "input_type": "domain"
+    },
+    {
+      "ts": "2026-08-09T13:29:28.877955+00:00",
+      "raw_input": "torvalds",
+      "input_type": "username"
+    },
+    {
+      "ts": "2026-08-09T13:30:33.855098+00:00",
+      "raw_input": "torvalds",
+      "input_type": "username"
+    }
+  ],
+  "entities": {
+    "domain:example.com": 37,
+    "ip:104.20.23.154": 10,
+    "ip:172.66.147.243": 10,
+    "ip:2606:4700:10::6814:179a": 10,
+    "ip:2606:4700:10::ac42:93f3": 10,
+    "ip:93.1.2.3": 9,
+    "email:mail@example.com": 3,
+    "url:https://www.tiktok.com/@user1907109281181/video/7669768455603719444?_r=1&u_code=e4lf4m1flkif46&preview_pb=0&sharer_language=ar&_d=ef7kli8bc59d7h&share_item_id=7669768455603719444&source=h5_m&timestamp=1786218644&user_id=7164806900641694726&sec_user_id=ms4wljabaaaarmwbepqqkatrsl1y6y99abgciuak9w6mhuukuh7jjjnnhk-lxo7iynorxcdn50id&social_share_type=0&utm_source=more&utm_campaign=client_share&utm_medium=android&share_iid=7668921724402960148&share_link_id=00a6879e-d8d5-471f-8479-74397d27b7dc&share_app_id=1233&ugbiz_name=main&ug_btm=b2001&sp_root_share_link_id=00a6879e-d8d5-471f-8479-74397d27b7dc&link_reflow_popup_iteration_sharer=%7b%22click_empty_to_play%22%3a1%2c%22dynamic_cover%22%3a1%2c%22follow_to_play_duration%22%3a-1.0%2c%22profile_clickable%22%3a1%7d&panel_source_v2=share_panel&share_enter_from=homepage_hot&item_author_type=2&enable_checksum=1&sp_level=1&sp_root_u=e4lf4m1flkif46&sp_root_d=ef7kli8bc59d7h": 1,
+    "url:https://www.facebook.com/share/p/18arqqsqcd/": 2,
+    "url:https://www.iana.org/help/example-domains": 2,
+    "url:https://httpbin.org/html": 2,
+    "domain:httpbin.org": 2,
+    "ip:32.196.52.218": 2,
+    "ip:23.20.164.10": 2,
+    "ip:54.243.153.26": 2,
+    "ip:34.200.45.130": 2,
+    "ip:54.81.88.174": 2,
+    "ip:100.60.224.175": 2,
+    "ip:44.222.0.225": 2,
+    "ip:54.158.57.87": 2,
+    "domain:iana.org": 1,
+    "ip:192.0.43.8": 1,
+    "ip:2001:500:88:200::8": 1,
+    "url:https://www.npr.org": 2,
+    "domain:npr.org": 2,
+    "ip:108.157.60.128": 2,
+    "ip:108.157.60.35": 2,
+    "ip:108.157.60.42": 2,
+    "ip:108.157.60.91": 2,
+    "username:githubuser": 1,
+    "username:torvalds": 2
+  },
+  "source_counts": {
+    "http": 19,
+    "certificate": 19,
+    "certificate_transparency": 19,
+    "dns": 28,
+    "whois": 15,
+    "stub": 18,
+    "social": 12,
+    "page": 6,
+    "public_sources": 3
+  }
+}

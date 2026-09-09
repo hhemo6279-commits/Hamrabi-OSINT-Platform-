@@ -1,0 +1,24 @@
+services:
+  backend:
+    build: ./backend
+    environment:
+      TRACEX_SECRET_KEY: ${TRACEX_SECRET_KEY:-devsecret-change-me}
+      TRACEX_AI_PROVIDER: ${TRACEX_AI_PROVIDER:-none}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+    ports:
+      - "8000:8000"
+    volumes:
+      - reports:/app/app/generated_reports
+      - db:/app/app
+
+  frontend:
+    build: ./frontend
+    depends_on:
+      - backend
+    ports:
+      - "5173:80"
+
+volumes:
+  reports:
+  db:

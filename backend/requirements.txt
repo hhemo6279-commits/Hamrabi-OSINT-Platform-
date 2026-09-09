@@ -1,0 +1,12 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+PyJWT==2.10.1
+httpx==0.28.1
+dnspython==2.7.0
+python-multipart==0.0.17
+reportlab==4.2.5
+
+# OCR (optional) — uncomment after installing the Tesseract engine:
+# pillow==11.1.0
+# pytesseract==0.3.13

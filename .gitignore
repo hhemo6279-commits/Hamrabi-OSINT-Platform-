@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.venv/
+node_modules/
+dist/
+generated_reports/
+hamrabi.db
+.DS_Store
